@@ -4,7 +4,7 @@
 
 ### Hello there, I'm Benjamin 👋
 
-## I'm a CS graduate who wants tp get back into developing
+## I'm a CS graduate who wants to get back into developing
 
 - 🌱 I’m currently learning everything
 - 🥅 Goals: Do something
